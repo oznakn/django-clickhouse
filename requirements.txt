@@ -1,7 +1,4 @@
 Django (>=1.7)
-pytz
 six
-typing
 infi.clickhouse-orm
-celery
-statsd
+huey
